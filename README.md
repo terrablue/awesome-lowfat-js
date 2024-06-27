@@ -41,6 +41,8 @@ from .env file
 written in pure JavaScript for node.js
 - [clack](https://github.com/bombshell-dev/clack) - Effortlessly build
 beautiful command-line apps 
+- [dequal](https://github.com/lukeed/dequal) - A tiny (304B to 489B) utility
+for check for deep equality
 
 ## Tools
 
