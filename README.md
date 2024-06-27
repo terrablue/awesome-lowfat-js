@@ -43,6 +43,8 @@ written in pure JavaScript for node.js
 beautiful command-line apps 
 - [dequal](https://github.com/lukeed/dequal) - A tiny (304B to 489B) utility
 for check for deep equality
+- [esqlite](https://github.com/mscdex/esqlite) - An SQLite binding for node.js
+with built-in encryption, focused on simplicity and (async) performance
 
 ## Tools
 
