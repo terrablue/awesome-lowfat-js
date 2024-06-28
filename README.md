@@ -43,6 +43,14 @@ written in pure JavaScript for node.js
 beautiful command-line apps 
 - [dequal](https://github.com/lukeed/dequal) - A tiny (304B to 489B) utility
 for check for deep equality
+
+### Databases
+
+- [postgres](https://github.com/porsager/postgres) - Fastest full featured 
+PostgreSQL client for Node.Js
+- [@electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight
+Postgres packaged as WASM into a TypeScript library for the browser, Node.js,
+Bun and Deno 
 - [esqlite](https://github.com/mscdex/esqlite) - An SQLite binding for node.js
 with built-in encryption, focused on simplicity and (async) performance
 
