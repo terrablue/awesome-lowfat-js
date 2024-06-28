@@ -26,6 +26,8 @@ A curated list of awesome low-dependency things related to JavaScript
 - [VanJS](https://vanjs.org) - VanJS. A minimalist React-like UI library based
 on vanilla JavaScript and DOM.
 - [HTMX](https://htmx.org) - high power tools for html
+- [Voby](https://github.com/vobyjs/voby) - A high-performance framework with
+fine-grained observable-based reactivity for building rich applications.
 
 ## Libraries
 
